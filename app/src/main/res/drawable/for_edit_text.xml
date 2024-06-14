@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Background color of the outline -->
+    <stroke
+        android:color="#838383"
+        android:width="2dp"/> <!-- Stroke width of the outline -->
+    <corners android:radius="16dp"/> <!-- Corner radius, adjust as needed -->
+</shape>

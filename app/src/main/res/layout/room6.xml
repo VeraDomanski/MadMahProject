@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <LinearLayout
+        android:layout_width="381dp"
+        android:layout_height="274dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/popup"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/textViewMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="שולחן מספר 6"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewSub2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewMain"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="8dp"
+            android:text="-"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewSub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewMain"
+            android:layout_marginTop="8dp"
+            android:text="ישנו מקום ל5 אנשים."
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="104dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewSub"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="115dp"
+            android:layout_marginTop="34dp"
+            android:text="הזמן" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

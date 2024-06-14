@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Work</string>
+
+
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
+    <string name="text_4">Text 4</string>
+    <string name="text_5">Text 5</string>
+    <string name="text_1">text1\n</string>
+    <string name="button1">+</string>
+
+    <string-array name="hours">
+        <item>8:45–9:25</item>
+        <item>9:25–10:05</item>
+        <item>10:25–11:05</item>
+        <item>11:05–11:45</item>
+        <item>12:05–12:45</item>
+        <item>12:45–13:25</item>
+        <item>13:35–14:15</item>
+        <item>14:45–15:05</item>
+        <item>15:05–16:00</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>יום ראשון </item>
+        <item>יום שני</item>
+        <item>יום שלישי</item>
+        <item>יום רביעי</item>
+        <item>יום חמישי</item>
+    </string-array>
+
+
+    <string-array name="subjects">
+        <item>מתמטיקה</item>
+        <item>אזרחות</item>
+        <item>תנ"ך</item>
+        <item>סיפרות</item>
+        <item>לשון</item>
+        <item>אנגלית</item>
+        <item>היסטוריה</item>
+        <item>פיזיקה</item>
+        <item>הנדסת תוכנה</item>
+        <item>אחר</item>
+    </string-array>
+
+    <string name="menu_open">open</string>
+    <string name="menu_close">close</string>
+
+    <string name="textView">הנה בחרו זמן</string>
+    <string name="textView2">הנה בחרו יום</string>
+    <string name="textView3">הנה בחרו מקצועה</string>
+    <string name="et2">שם התלמידכיתה</string>
+    <string name="textview">TextView</string>
+    <string name="TextView">מספר השולחן</string>
+    <string name="Button">שלך בקשה</string>
+    <string name="Textview">Booking Tables App</string>
+    <string name="Text">extra</string>
+    <string name="Name1">tebleNum</string>
+    <string name="password">סיסמה</string>
+    <string name="enter">כניסה</string>
+    <string name="register">הרשם כאן</string>
+    <string name="_4">4</string>
+    <string name="room1text1">חדר עיון</string>
+    <string name="exit">התנתק</string>
+    <string name="map">מפת הספריה</string>
+    <string name="schedule">לוז הזימונים</string>
+    <string name="add">+</string>
+    <string name="phonNum">מספר הנייד</string>
+    <string name="email">דואר אלקטרוני</string>
+    <string name="registrate">הרשם</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/map"
+            android:title="מפת השולחנות"
+            android:icon="@drawable/img"/>
+
+        <item
+            android:id="@+id/MyPlace"
+            android:title="מקום שלי"
+            android:icon="@drawable/img_6"/>
+        <item
+            android:id="@+id/logOut"
+            android:title="התנתק"
+            android:icon="@drawable/img_3"/>
+        <item
+            android:id="@+id/weekList"
+            android:title="שולחנות שנקבעו השבועה"
+            android:icon="@drawable/img_5"/>
+    </group>
+</menu>
